@@ -1,0 +1,5 @@
+1. Create a branch by (git checkout -b feature-rebase)
+2.Add commit main by (git commit -m "Main added")
+  Add commit on feature-rebase (git commit -m "feature-commit)
+3. Rebase - git rebase main
+4. git log --oneline
