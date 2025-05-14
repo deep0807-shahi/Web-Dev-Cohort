@@ -1,0 +1,5 @@
+
+initialization - git init
+commit - git commit -m "message"
+check status - git log
+revert - git  revert HEAD
