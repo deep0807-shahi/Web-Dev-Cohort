@@ -1,0 +1,30 @@
+1. What problem does a Version Control System solve?
+   It tracks and manages changes to code over time. It helps in collaboration and rollback of code when needed.
+
+2. Differentiate between Centralized and Distributed VCS.
+   Centralized VCS uses a single server for code storage, requiring network access. Distributed VCS like Git lets every developer have a full copy of the repository.
+
+3. What is Git and how is it different from GitHub?
+   Git is a version control tool for tracking changes in code. GitHub is a cloud-based hosting platform for Git repositories with collaboration features.
+
+4. What is a staging area in Git?
+   It’s a preparation area where changes are reviewed before committing. Only staged files are committed to the repository.
+
+5. What does the .git folder contain?
+   It holds all the metadata, configuration, and version history of your Git project. It makes the directory a Git repository.
+
+6. What is git branching and command to create new branch and switch?
+   Branching allows multiple versions of code to be developed in parallel.
+   Use git branch <name> to create and git checkout <name> or git switch <name> to switch.
+
+7. What is the difference between git reset and git reset --hard?
+   git reset moves HEAD to a previous commit but keeps changes.
+   git reset --hard deletes all changes and resets the working directory.
+
+8. What is a squash merge, and when would you use it?
+   A squash merge combines all commits into one.
+   It’s useful for cleaning up history before merging a feature branch.
+
+9. Explain the use of git rebase with an example scenario.
+   git rebase moves or reapplies commits on top of another base branch.
+   It’s ideal for linear history and syncing feature branches with updated main branches
