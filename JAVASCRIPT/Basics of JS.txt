@@ -1,0 +1,19 @@
+Compiled Language: Code is translated into machine code before running.
+                   Needs a compiler.
+                   Faster at runtime, but compilation takes time.
+                   Example: C, C++
+
+Interpreted Language: Code is executed line by line at runtime.
+                      Needs an interpreter.
+                      Slower at runtime, but easier to test and debug.
+                      Example: Python, JavaScript
+                      
+JS is an interpreted language 
+JS is a dynamically typed language ( dynamically typed language, variable types are determined at runtime.)
+JS is a single threaded language (Executes only one task at a time.)
+
+NODE.JS - It's a runtime environment for javascript , alternatives are BUN & DENO 
+
+VARIABLES - In programming, a variable is a named storage location that holds a value. 
+            This value can be changed during the program's execution.
+            Variables are essential for storing and manipulating data within a program. 
