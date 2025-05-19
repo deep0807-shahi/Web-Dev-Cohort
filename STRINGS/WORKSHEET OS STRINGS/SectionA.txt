@@ -1,0 +1,24 @@
+ 1.  let str = "  A lphaIntern  ";
+     console.log(str.trim().toUpperCase());
+    
+      OUTPUT :- ALPHAINTERN
+
+2.  let str = "webdevelopment";
+    console.log(str.slice(3, 6));
+
+     OUTPUT :- dev
+
+3. let str = "AlphaIntern";
+   console.log(str.substring(6));
+
+      OUTPUT :- Intern 
+
+4. let str = "Welcome to AlphaIntern";
+   console.log(str.includes("Alpha"));
+
+      OUTPUT :- true 
+
+5. let char = "A";
+   console.log(char.charCodeAt(0));
+
+   OUTPUT:- 65
