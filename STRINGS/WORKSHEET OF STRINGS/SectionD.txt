@@ -1,0 +1,35 @@
+Check whether the string "developer" contains the word "love". 
+
+    let str1 = "developer";
+    console.log(str1.includes("love")); 
+
+    OUTPUT :- false
+
+Verify whether the string "AlphaIntern" begins with "Alpha".
+
+    let str2 = "AlphaIntern";
+    console.log(str2.startsWith("Alpha")); 
+
+    OUTPUT :- true
+
+Check if the string "AlphaIntern" ends with "tern". 
+
+    let str3 = "AlphaIntern";
+    console.log(str3.endsWith("tern"));
+
+    OUTPUT :- true
+
+Find the position of the first occurrence of the character 'a' in "JavaScript".
+
+    let str4 = "JavaScript";
+    console.log(str4.indexOf("a")); 
+
+    OUTPUT:- 1 
+
+Check if the word "Backend" is present inside "I am a Backend Developer". make all seperate codes in js
+
+    let str5 = "I am a Backend Developer";
+    console.log(str5.includes("Backend")); 
+
+    OUTPUT :- true
+
