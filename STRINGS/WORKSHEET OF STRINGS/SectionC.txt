@@ -1,0 +1,5 @@
+1. backticks()
+2. character
+3. lowercase 
+4. all 
+5, boolean 
